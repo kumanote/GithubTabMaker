@@ -1,0 +1,8 @@
+{
+  "appName": {
+    "message": "GithubTabMaker"
+  },
+  "appDesc": {
+    "message": "Just enable this extension and you can open any external links (in any page) in a new tab.We recommend this extension especially for Github users.You don't have to get upset with problems (external links in Github issue page open in the same tab) any more!"
+  }
+}

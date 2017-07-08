@@ -1,0 +1,8 @@
+{
+  "appName": {
+    "message": "GithubTabMaker"
+  },
+  "appDesc": {
+    "message": "この拡張機能を有効にした状態で、任意のページを読み込むと、外部サイトのリンクが全て別タブで開くようになります。特にGithubユーザにお勧めです。issueとかwikiに記載された外部リンクに有効です！"
+  }
+}
