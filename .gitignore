@@ -7,3 +7,6 @@ Desktop.ini
 
 # swp
 *.swp
+
+# ide
+.idea/
